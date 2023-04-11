@@ -1,3 +1,5 @@
+<img src="https://github.com/ConradCsky/Fibonacci-sequence/blob/main/fibonacci.jpg" alt="Fibonacci image" width="150">
+
 # Fibonacci sequence
 This code calculates and displays the Fibonacci sequence for a user-specified number of elements using memoization. The fibonacci() function is a recursive function that takes an integer n and a memoization vector memo as its arguments. Memoization is used to store the previously computed Fibonacci numbers in the memo vector, allowing for faster calculation times by avoiding redundant computations.
 
